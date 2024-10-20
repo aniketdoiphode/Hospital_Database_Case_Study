@@ -1,0 +1,16 @@
+doctor_id,first_name,last_name,specialty,phone_number,email,gender,license_number,years_of_experience,department
+1,Alice,Smith,Cardiology,123-456-7890,alice.smith@hospital.com,F,DOC123456,10,Cardiology
+2,John,Doe,Neurology,234-567-8901,john.doe@hospital.com,M,DOC234567,8,Neurology
+3,Sarah,Johnson,Pediatrics,345-678-9012,sarah.johnson@hospital.com,F,DOC345678,12,Pediatrics
+4,James,Brown,Orthopedics,456-789-0123,james.brown@hospital.com,M,DOC456789,15,Orthopedics
+5,Emily,Davis,Dermatology,567-890-1234,emily.davis@hospital.com,F,DOC567890,7,Dermatology
+6,Michael,Miller,Gastroenterology,678-901-2345,michael.miller@hospital.com,M,DOC678901,11,Gastroenterology
+7,Jessica,Wilson,Endocrinology,789-012-3456,jessica.wilson@hospital.com,F,DOC789012,9,Endocrinology
+8,David,Martinez,Psychiatry,890-123-4567,david.martinez@hospital.com,M,DOC890123,5,Psychiatry
+9,Linda,Anderson,Oncology,901-234-5678,linda.anderson@hospital.com,F,DOC901234,14,Oncology
+10,Robert,Taylor,Urology,012-345-6789,robert.taylor@hospital.com,M,DOC012345,6,Urology
+11,William,Moore,Rheumatology,123-456-7801,william.moore@hospital.com,M,DOC123457,4,Rheumatology
+12,Karen,Jackson,"Allergy and Immunology",234-567-8912,karen.jackson@hospital.com,F,DOC234568,13,"Allergy and  Immunology"
+13,Charles,Harris,Ophthalmology,345-678-9023,charles.harris@hospital.com,M,DOC345679,16,Ophthalmology
+14,Barbara,Clark,Nephrology,456-789-0134,barbara.clark@hospital.com,F,DOC456780,10,Nephrology
+15,Steven,Lewis,Hematology,567-890-1245,steven.lewis@hospital.com,M,DOC567891,3,Hematology

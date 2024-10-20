@@ -1,0 +1,16 @@
+patient_id,first_name,last_name,date_of_birth,address,phone_number,email,gender,insurance_number,medical_history
+1,John,Doe,1980-05-12,"123 Main St, Springfield, IL","123-456- 7890",john.doe@example.com,M,INS123456,Diabetes
+2,Jane,Smith,1992-08-24,"456 Oak St, Springfield, IL","234-567- 8901",jane.smith@example.com,F,INS234567,Hypertension
+3,Michael,Johnson,1985-11-15,"789 Pine St, Springfield, IL","345- 678-9012",michael.johnson@example.com,M,INS345678,Asthma
+4,Emily,Brown,2000-03-03,"321 Maple St, Springfield, IL","456-789- 0123",emily.brown@example.com,F,INS456789,Healthy
+5,David,Williams,1975-09-30,"654 Elm St, Springfield, IL","567-890- 1234",david.williams@example.com,M,INS567890,Allergies
+6,Linda,Jones,1988-07-22,"987 Birch St, Springfield, IL","678-901- 2345",linda.jones@example.com,F,INS678901,Healthy
+7,James,Garcia,1995-12-18,"159 Cedar St, Springfield, IL","789-012- 3456",james.garcia@example.com,M,INS789012,"Chronic Pain"
+8,Patricia,Martinez,1969-06-09,"753 Walnut St, Springfield, IL","890- 123-4567",patricia.martinez@example.com,F,INS890123,Arthritis
+9,Robert,Davis,1981-10-14,"852 Ash St, Springfield, IL","901-234- 5678",robert.davis@example.com,M,INS901234,Healthy
+10,Mary,Lopez,1990-04-01,"951 Poplar St, Springfield, IL","012-345- 6789",mary.lopez@example.com,F,INS012345,Migraines
+11,William,Wilson,1983-02-20,"132 Cherry St, Springfield, IL","123- 456-7801",william.wilson@example.com,M,INS123457,"Heart  Disease"
+12,Barbara,Anderson,1972-01-17,"246 Chestnut St, Springfield, IL",234-567-8912,barbara.anderson@example.com,F,INS234568,Healthy
+13,Christopher,Taylor,1994-05-29,"357 Hickory St, Springfield, IL",345-678-9023,christopher.taylor@example.com,M,INS345679,"High Cholesterol"
+14,Susan,Moore,1987-08-10,"468 Magnolia St, Springfield, IL","456- 789-0134",susan.moore@example.com,F,INS456780,Healthy
+15,Kevin,White,1998-11-25,"579 Willow St, Springfield, IL","567-890- 1245",kevin.white@example.com,M,INS567891,Diabetes
